@@ -2,7 +2,7 @@
 
 This repository contains **Windows 10** Instructions for participation in the NIPS 2017 Challenge: Learning to Run.
 
-### Environment Instructions Includes
+### Environment Setup Instructions Includes
 - OS: Windows 10 - "Setting Envirionmental Variables"
 - Language: Python 2.7/3 - "Installation"
 - Anaconda 2 - "Installation"
