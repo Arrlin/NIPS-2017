@@ -18,7 +18,20 @@ Just going to Jump Right to the good stuff
 Disclaimer: I really don't have a clue what i'm doing. This was a week of trail and error and what I ended up with....from memory
 If it doesn't work, Let me know and I'll do my best to fill in the blanks
 
-![Individual_Components](NIPS-2017/Environment-Setup/Individual_Components.jpg)
+---
+## NIPS2017: Learning to Run - 
+## Windows 10 - 64bit - Envirionment Installation/Setup
+
+### Step #1 - Visual Studio Community 2017 Workloads & Individual Components
+- [Download - Visual Studio Community 2017](https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+    - Install
+    - 2 Sections of Importants - CRITICAL STEP!
+        - Workloads
+        - Individual Components
+
+![Workloads](https://github.com/Arrlin/NIPS-2017/blob/master/Environment-Setup/Workloads.jpg)
+![Individual Components](https://github.com/Arrlin/NIPS-2017/blob/master/Environment-Setup/Individual_Components.jpg)
+
 
 
 See more details about the challenge [here](https://www.crowdai.org/challenges/nips-2017-learning-to-run). 
