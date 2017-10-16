@@ -1,4 +1,4 @@
-# NIPS2017: Learning to Run - Environment Setup
+## NIPS2017: Learning to Run - Environment Setup w/Jupyter Notebook
 
 This repository contains **Windows 10 64-Bit** Instructions for participation in the NIPS 2017 Challenge: Learning to Run.
 
