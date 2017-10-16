@@ -51,6 +51,8 @@ Depending On Internet Speed this could potentially take quite a while.
 ---
 
 
+
+
 ---
 **Step #3 - Command Prompt Work**
 - Open [CMD with Admin Privileges](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
@@ -63,28 +65,44 @@ md LTR
 cd LTR
 conda create -n opensim-rl -c kidzik opensim git python=2.7
 activate opensim-rl
-conda install theano
-conda install -c conda-forge lapack git
-pip install git+https://github.com/stanfordnmbl/osim-rl.git
-conda install keras -c conda-forge
+conda install -n opensim-rl theano
+conda install -c conda-forge -n opensim-rl lapack
+conda install -c conda-forge -n opensim-rl keras
 pip install git+https://github.com/matthiasplappert/keras-rl.git
 git clone http://github.com/stanfordnmbl/osim-rl.git
-cd osim-rl/scripts
-conda install jupyter
+pip install git+https://github.com/stanfordnmbl/osim-rl.git
+conda install -n opensim-rl jupyter
 python -m ipykernel install --user --name=opensim-rl
 ```
+
+---
+
+---
+**Step #4 - Fixing numpy+mkl error**
+Download [numpy‑1.13.3+mkl‑cp27‑cp27m‑win_amd64.whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy) to "C:\LTR"
+
+From Command Prompt:
+
+```
+c:
+cd\
+cd c:\LTR
+pip install numpy‑1.13.3+mkl‑cp27‑cp27m‑win_amd64.whl
+```
+
 ---
 
 
+
 ---
-**Step #4 - Jupyter Notebook - Workflow**
+**Step #5 - Jupyter Notebook - Workflow**
 
 Remeber to always "activate opensim-rl" before Starting Sessions
 Run the following in Commmand Prompt
 ```
 c:
 cd\
-cd LTR
+cd c:\LTR\osim-rl
 activate opensim-rl
 jupyter notebook
 ```
