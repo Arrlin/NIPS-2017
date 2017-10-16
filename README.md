@@ -1,6 +1,6 @@
 # NIPS2017: Learning to Run - Environment Setup
 
-This repository contains **Windows 10 64Bit** Instructions for participation in the NIPS 2017 Challenge: Learning to Run.
+This repository contains **Windows 10 64-Bit** Instructions for participation in the NIPS 2017 Challenge: Learning to Run.
 
 ### Results
 - OS: Windows 10 - "Setting Envirionmental Variables"
