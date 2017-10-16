@@ -2,15 +2,15 @@
 
 This repository contains **Windows 10** Instructions for participation in the NIPS 2017 Challenge: Learning to Run.
 
-### Environment Setup Instructions Outline
+### Environment Setup - Results
 - OS: Windows 10 - "Setting Envirionmental Variables"
-- Language: Python 2.7/3 - "Installation"
-- Anaconda 2 - "Installation"
-- [stanfordnmbl/osim-rl](https://github.com/stanfordnmbl/osim-rl) - "Installation"
-- [Keras](https://keras.io/) - "Installation"
-- [keras-rl](https://github.com/matthiasplappert/keras-rl) - "Installation"
-- [Theano](http://deeplearning.net/software/theano/) - "Installation"
-- [Jupyter Notebook](http://jupyter.org/) - "Installation"
+- Language: Python 2.7/3
+- Anaconda 2
+- [stanfordnmbl/osim-rl](https://github.com/stanfordnmbl/osim-rl)
+- [Keras](https://keras.io/)
+- [keras-rl](https://github.com/matthiasplappert/keras-rl)
+- [Theano](http://deeplearning.net/software/theano/)
+- [Jupyter Notebook](http://jupyter.org/)
 
 
 Just going to Jump Right to the good stuff
