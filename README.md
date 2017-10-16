@@ -87,6 +87,7 @@ From Command Prompt:
 c:
 cd\
 cd c:\LTR
+activate opensim-rl
 pip install numpy‑1.13.3+mkl‑cp27‑cp27m‑win_amd64.whl
 ```
 
