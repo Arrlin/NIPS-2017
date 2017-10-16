@@ -16,6 +16,7 @@ This repository contains **Windows 10 64-Bit** Instructions for participation in
 Just going to Jump Right to the good stuff
 
 Disclaimer: I really don't have a clue what i'm doing. This was a week of trail and error and what I ended up with....from memory
+
 If it doesn't work, Let me know and I'll do my best to fill in the blanks
 
 ### NIPS2017: Learning to Run -  Windows 10 - 64bit - Envirionment Installation/Setup
