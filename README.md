@@ -56,6 +56,7 @@ Depending On Internet Speed this could potentially take quite a while.
 - Run the Following Commands - IN THIS EXACT ORDER!
 
 ```
+c:
 cd\
 md LTR
 cd LTR
@@ -74,4 +75,22 @@ conda install jupyter
 pip install ipykernel
 python -m ipykernel install --user --name=opensim-rl
 ```
+---
+
+
+---
+**Step #4 - Jupyter Notebook - Workflow**
+
+Remeber to always "activate opensim-rl" before Starting Sessions
+Run the following in Commmand Prompt
+```
+c:
+cd\
+cd LTR
+activate opensim-rl
+jupyter notebook
+```
+
+That's It's - You Should Now be in a Jupyter Notebook Session ready to build Your "Learning to Run" R.L. Model!
+
 ---
