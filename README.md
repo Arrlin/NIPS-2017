@@ -103,10 +103,11 @@ Run the following in Commmand Prompt
 ```
 c:
 cd\
-cd c:\LTR\osim-rl
+cd c:\LTR\osim-rl\scripts
 activate opensim-rl
 jupyter notebook
 ```
+I'd Recommend Testing the Environment with ***"train.arm.ipynb"***
 
 That's It's - You Should Now be in a Jupyter Notebook Session ready to build Your "Learning to Run" R.L. Model!
 
