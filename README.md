@@ -18,7 +18,7 @@ Just going to Jump Right to the good stuff
 Disclaimer: I really don't have a clue what i'm doing. This was a week of trail and error and what I ended up with....from memory
 If it doesn't work, Let me know and I'll do my best to fill in the blanks
 
-![Individual_Components](https://github.com/Arrlin/NIPS-2017/Environment-Setup/Individual_Components.jpg)
+![Individual_Components](NIPS-2017/Environment-Setup/Individual_Components.jpg)
 
 
 See more details about the challenge [here](https://www.crowdai.org/challenges/nips-2017-learning-to-run). 
