@@ -71,7 +71,6 @@ pip install git+https://github.com/matthiasplappert/keras-rl.git
 git clone http://github.com/stanfordnmbl/osim-rl.git
 cd osim-rl/scripts
 conda install jupyter
-pip install ipykernel
 python -m ipykernel install --user --name=opensim-rl
 ```
 ---
