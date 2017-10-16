@@ -33,19 +33,20 @@ If it doesn't work, Let me know and I'll do my best to fill in the blanks
 ![Individual Components](https://github.com/Arrlin/NIPS-2017/blob/master/Environment-Setup/Individual_Components.jpg)
 
 Depending On Internet Speed this could potentially take quite a while.
+
 ---
 
 
 ---
 **Step #2 - Environmental Path Variables**
-    - Open Windows Search
-    - Type "Path"
-    - click "Edit the system environment variables for your account"
-    - Under User Variables - Select Path - Click Edit
-    - In Edit environment variable - Click New
-    - Paste "C:\Program Files\Anaconda2" - Click New
-    - Paste "C:\Program Files\Anaconda2\scripts" - Click OK
-    - [Add New Path - with Pictures](https://betanews.com/2015/11/23/windows-10-finally-adds-a-new-path-editor/)
+- Open Windows Search
+- Type "Path"
+- click "Edit the system environment variables for your account"
+- Under User Variables - Select Path - Click Edit
+- In Edit environment variable - Click New
+- Paste "C:\Program Files\Anaconda2" - Click New
+- Paste "C:\Program Files\Anaconda2\scripts" - Click OK
+- [Add New Path - with Pictures](https://betanews.com/2015/11/23/windows-10-finally-adds-a-new-path-editor/)
 ---
 
 
@@ -53,6 +54,7 @@ Depending On Internet Speed this could potentially take quite a while.
 **Step #3 - Command Prompt Work**
 - Open [CMD with Admin Privileges](https://www.howtogeek.com/194041/how-to-open-the-command-prompt-as-administrator-in-windows-8.1/)
 - Run the Following Commands - IN THIS EXACT ORDER!
+
 ```
 cd\
 md LTR
