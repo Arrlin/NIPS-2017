@@ -116,3 +116,18 @@ That's It's - You Should Now be in a Jupyter Notebook Session ready to build You
 Hope this was Helpful :)
 
 James Nelson - "Arrlin"
+
+---
+
+**Step #6 - (Optional) Nvidia GPU Setup **
+
+c:
+cd\
+cd C:\ProgramData\Anaconda3\envs\opensim-rl\etc\conda\activate.d
+notepad keras_activate.bat
+
+"Add the following Lines" to keras_activate.bat and SAVE
+cd
+set "KERAS_BACKEND=theano"
+set "THEANO_FLAGS=device=gpu,floatX=float32,lib.cnmem=.75"
+
