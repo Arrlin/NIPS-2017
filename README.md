@@ -129,5 +129,6 @@ notepad keras_activate.bat
 "Add the following Lines" to keras_activate.bat and SAVE
 
 set "KERAS_BACKEND=theano"
+
 set "THEANO_FLAGS=device=gpu,floatX=float32,lib.cnmem=.75"
 
