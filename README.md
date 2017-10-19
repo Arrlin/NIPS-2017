@@ -120,12 +120,12 @@ James Nelson - "Arrlin"
 ---
 
 **Step #6 - (Optional) Nvidia GPU Setup **
-
+```
 c:
 cd\
 cd C:\ProgramData\Anaconda3\envs\opensim-rl\etc\conda\activate.d
 notepad keras_activate.bat
-
+```
 "Add the following Lines" to keras_activate.bat and SAVE
 
 set "KERAS_BACKEND=theano"
