@@ -113,9 +113,6 @@ That's It's - You Should Now be in a Jupyter Notebook Session ready to build You
 
 ---
 
-Hope this was Helpful :)
-
-James Nelson - "Arrlin"
 
 ---
 
@@ -131,3 +128,9 @@ notepad keras_activate.bat
 set "KERAS_BACKEND=theano"
 set "THEANO_FLAGS=device=gpu,floatX=float32,lib.cnmem=.75"
 ```
+
+---
+
+Hope this was Helpful :)
+
+James Nelson - "Arrlin"
